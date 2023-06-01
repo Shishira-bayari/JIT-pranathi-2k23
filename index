@@ -1,0 +1,16 @@
+Object(f.jsxs)
+(
+    m.a,
+    {
+        children:[
+            Object(f.jsx)
+            (
+                x.a,
+                {
+                    md:"4",children:Object(f.jsxs)
+                    (
+                        w.a,
+                        {
+                            className:"card-coin card-plain",children:
+                            [
+                                Object(f.jsxs)(S.a,{children:[Object(f.jsxs)(m.a,{children:[Object(f.jsxs)(x.a,{className:"text-center",md:"12",children:[Object(f.jsx)("h4",{className:"text-uppercase",children:"Dr. Kishore G R"}),Object(f.jsx)("hr",{className:"line-primary"})]}),Object(f.jsxs)(x.a,{className:"m-3",children:[" ",Object(f.jsx)("img",{alt:"...",className:"img-center img-fluid",src:a(112).default})," "]})]}),Object(f.jsx)(m.a,{children:Object(f.jsxs)(D.a,{children:[Object(f.jsx)(L.a,{children:" CHIEF COORDINATOR"}),Object(f.jsxs)(L.a,{children:[" ","Contact Number: 9538460697"," "]})]})})]})
